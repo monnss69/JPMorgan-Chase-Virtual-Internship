@@ -1,0 +1,20 @@
+# Core dependencies
+pandas==2.2.0
+numpy==1.26.3
+
+# Prophet and its dependencies
+prophet==1.1.5
+cmdstanpy==1.2.0
+pystan==3.7.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Optional: for notebook support
+jupyter==1.0.0
+notebook==7.0.7
+
+# Additional dependencies for Prophet
+holidays==0.41
+tqdm==4.66.1
